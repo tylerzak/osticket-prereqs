@@ -58,7 +58,7 @@ I began by creating a virtual machine using Microsoft Azure, configuring the nec
 <img src="https://i.gyazo.com/84ccbf7b64c1298b83f0be58fbde11cb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, I enabled information services, including configuring IIS (Internet Information Services) to host the application. I also installed and configured the necessary software prerequisites for osTicket to run, ensuring proper integration and functionality.
+Next, I enabled IIS (Internet Information Services) to host the application. I also installed and configured the necessary software prerequisites for osTicket to run, ensuring proper integration and functionality.
 </p>
 <br />
 
