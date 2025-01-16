@@ -74,10 +74,10 @@ Following this, I registered PHP within IIS, configuring the web server to recog
 <img src="https://i.gyazo.com/05f43e53949ded8b21f508ffa4515d91.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://gyazo.com/faae24f58984022e643fe00125ae71fe" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/faae24f58984022e643fe00125ae71fe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://gyazo.com/55837ad1b062a64adc2e52cd702f343d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/55837ad1b062a64adc2e52cd702f343d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I then extracted the osTicket files and ensured that all necessary components were correctly placed and configured. This enabled seamless access to osTicket. Additionally, I implemented several recommended configurations to enhance usability and optimize the system for improved performance.
