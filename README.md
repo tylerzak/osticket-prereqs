@@ -97,6 +97,6 @@ I then extracted the osTicket files and ensured that all necessary components we
 <img src="https://i.gyazo.com/aa4d8ed4fe84f48e9fcc2d466aaa92d3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lastly, I configured permissions and installed osTicket. While granting full control isn’t a recommended practice in a real business environment, I prioritized ease of setup for this instance to avoid potential issues during configuration.
+Lastly, I configured permissions and installed osTicket. While granting full control to everyone isn’t a recommended practice in a real business environment, I prioritized ease of setup for this instance to avoid potential issues during configuration.
 </p>
 <br />
