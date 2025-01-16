@@ -88,7 +88,7 @@ I then extracted the osTicket files and ensured that all necessary components we
 <img src="https://i.gyazo.com/0860af0d17c0d1a8d866ca0911540d5b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.gyazo.com/925b269a69866077b7e3618433fe8e18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/925b269a69866077b7e3618433fe8e18.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.gyazo.com/aa486074c899588c982df0cf549ce5d1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
